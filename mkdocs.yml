@@ -5,8 +5,6 @@ site_dir: site  # Where to put the English HTML files
 site_author: 'Asst. Prof. Dr. Yıldıran YILMAZ'
 site_url: 'https://ucoruh.github.io/ce208-database-management-systems/'
 
-site_description: >-
-    RTEU CE208 Database Management Systems Course Notes
 
 site_description_en: >-
     RTEU CE208 Database Management Systems Course Notes
@@ -190,22 +188,23 @@ markdown_extensions:
       guess_lang: true
 
 plugins:
+  - mkdocs-video #https://pypi.org/project/mkdocs-video/
   - search
   - i18n:
       default_language: !ENV [DEFAULT_LANGUAGE, "en"]
       default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
       languages:
         default:
-          name: Default (en)
+          name: English
           build: true
         en:
           name: English
           build: true
-          site_name: "RTEU Course Notes Templates (en)"
+          site_name: "RTEU CE208 Database Management Systems Course Notes"
         tr:
           name: Türkçe
           build: true
-          site_name: "RTEU Ders Notu Şablonu (tr)"
+          site_name: "RTEU CE208 Database Management Systems Course Notes"
       nav_translations:
         tr:
           Home: 'Home'
@@ -227,8 +226,10 @@ plugins:
           Week-14 (TO-DO): 'Week-14 (TO-DO)'
           Week-15 (TO-DO): 'Week-15 (TO-DO)'
           Week-16 (Final): 'Week-16 (Final)'
-          License: 'License'
-          Changelog: 'Changelog'
+          License: 'Telif Hakkı'
+          Resume: 'Özgeçmiş'
+          Changelog: 'Değişim Günlüğü'
+          
   - git-revision-date-localized
   - minify:
       minify_html: false
@@ -296,4 +297,5 @@ nav:
     - Week-15 (TO-DO): week-15/week-15.md
     - Week-16 (Final): week-16/week-16-final.md
   - License: license.md
+  - Resume: resume/index.md
   - Changelog: changelog/index.md

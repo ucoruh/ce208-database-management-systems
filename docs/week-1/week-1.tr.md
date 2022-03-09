@@ -58,13 +58,12 @@ math: katex
 **Email:** yildiran.yilmaz@erdogan.edu.tr
 **Office Hours:**  Thursday
 
-Download [PDF-MS](1_veri_tabani_giris_week_1.pdf), [PDF-MD](week-1.en.md_slide.pdf), [PPTX-MD](week-1.en.md_slide.pptx), [PPTX-MS](1_veri_tabani_giris_week_1.pptx)
 
 
-<iframe width=700, height=500 frameBorder=0 src="../1_veri_tabani_giris_week_1.pdf"></iframe>
+Download [PDF-MS](../files/week-1.pdf), [PDF-MD](week-1.tr.md_slide.pdf), [DOCX-MD](week-1.tr.md_word.docx), [PPTX-MD](week-1.tr.md_slide.pptx), [PPTX-MS](../files/week-1.pptx)
 
-
-<iframe width=700, height=500 frameBorder=0 src="../week-1.en.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../files/week-1.pdf"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../week-1.tr.md_slide.html"></iframe>
 
 ---
 

@@ -60,9 +60,10 @@ math: katex
 **Email:** yildiran.yilmaz@erdogan.edu.tr
 **Office Hours:**  Thursday
 
-Download [PDF-MS](3_gereksinim_analizi_hafta_3.pdf), [PPTX-MS](3_gereksinim_analizi_hafta_3.pptx)
+Download [PDF-MS](../files/week-3.pdf), [PDF-MD](week-3.tr.md_slide.pdf), [DOCX-MD](week-3.tr.md_word.docx), [PPTX-MD](week-3.tr.md_slide.pptx), [PPTX-MS](../files/week-3.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../3_gereksinim_analizi_hafta_3.pdf"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../files/week-3.pdf"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../week-3.tr.md_slide.html"></iframe>
 
 ---
 

@@ -24,6 +24,7 @@ pip install mkdocs-static-i18n
 pip install mkdocs-with-pdf
 pip install qrcode
 pip install mkdocs-awesome-pages-plugin
+pip install mkdocs-video
 
 pip install pptx2md
 pause

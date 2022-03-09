@@ -60,11 +60,10 @@ math: katex
 **Email:** yildiran.yilmaz@erdogan.edu.tr
 **Office Hours:**  Thursday
 
-Download [PDF-MS](2_veri_tabani_temel_kavramlar_hafta_2.pdf), [PDF-MD](week-2.en.md_slide.pdf), [PPTX-MD](week-2.en.md_slide.pptx), [PPTX-MS](2_veri_tabani_temel_kavramlar_hafta_2.pptx)
+Download [PDF-MS](../files/week-2.pdf), [PDF-MD](week-2.tr.md_slide.pdf), [DOCX-MD](week-2.tr.md_word.docx), [PPTX-MD](week-2.tr.md_slide.pptx), [PPTX-MS](../files/week-2.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../2_veri_tabani_temel_kavramlar_hafta_2.pdf"></iframe>
-<iframe width=700, height=500 frameBorder=0 src="../week-2.en.md_slide.html"></iframe>
-
+<iframe width=700, height=500 frameBorder=0 src="../files/week-2.pdf"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../week-2.tr.md_slide.html"></iframe>
 ---
 
 <!-- paginate: true -->
