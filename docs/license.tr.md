@@ -6,7 +6,7 @@ template: main.html
 
 **MIT Lisansı**
 
-Telif Hakkı (c) 2019-2022 Uğur ÇORUH
+Telif Hakkı (c) 2019-2022 Yıldıran YILMAZ
 
 Bu belgeyle, bir kopyasını alan herhangi bir kişiye ücretsiz olarak izin verilir.
 bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım"),

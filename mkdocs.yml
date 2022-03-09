@@ -1,23 +1,23 @@
 # Project information
-site_name: RTEU Course Notes Templates
+site_name: RTEU CE208 Database Management Systems Course Notes
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Asst. Prof. Dr. Uğur CORUH'
-site_url: 'https://ucoruh.github.io/course-note-template/'
+site_author: 'Asst. Prof. Dr. Yıldıran YILMAZ'
+site_url: 'https://ucoruh.github.io/ce208-database-management-systems/'
 
 site_description_en: >-
-    Course Notes Templates
+    RTEU CE208 Database Management Systems Course Notes
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    RTEU CE208 Database Management Systems Course Notes
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/ucoruh/course-note-template'
+repo_url: 'https://github.com/ucoruh/ce208-database-management-systems'
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
+copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Yıldıran YILMAZ
 
 #theme:
 #    name: material
@@ -104,7 +104,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY_TEMPLATE
+    property: !ENV GOOGLE_ANALYTICS_KEY_CE208
     feedback:
       title: Was this page helpful?
       ratings:
@@ -130,27 +130,18 @@ extra:
       analytics: Google Analytics
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ucoruh
-    - icon: fontawesome/brands/bitbucket
-      link: https://bitbucket.org/ucoruh/
+      link: https://github.com/yildiranyilmaz
     - icon: fontawesome/regular/compass
-      link: https://www.scopus.com/authid/detail.uri?authorId=57218950743
-    - icon: fontawesome/regular/id-card
-      link: https://dblp.org/pid/230/0394.html
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/ucoruh/
+      link: https://www.researchgate.net/profile/Yildiran-Yilmaz
     - icon: fontawesome/brands/orcid
-      link: https://orcid.org/my-orcid?orcid=0000-0003-4193-8401
+      link: https://orcid.org/0000-0002-5337-6090
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ugurcoruh/
-    - icon: fontawesome/regular/moon
-      link: https://publons.com/researcher/1540204/ugur-coruh/
+      link: https://www.linkedin.com/in/yildiran-yilmaz-a7158018b/
     - icon: fontawesome/brands/google
-      link: https://scholar.google.com/citations?user=KIU4ltMAAAAJ&hl=tr
+      link: https://scholar.google.com/citations?user=HfyM3c0AAAAJ&hl=tr
     - icon: fontawesome/regular/clipboard
-      link: https://avesis.erdogan.edu.tr/ugur.coruh
-    - icon: fontawesome/regular/user-circle
-      link: https://www.ugurcoruh.com/
+      link: https://avesis.erdogan.edu.tr/yildiran.yilmaz
+
             
 # Extensions
 markdown_extensions:
@@ -214,27 +205,27 @@ plugins:
           site_name: "RTEU Ders Notu Şablonu (tr)"
       nav_translations:
         tr:
-          Home: 'Ana Sayfa'
-          Syllabus: 'Ders İzlencesi'
-          Course Modules: 'Ders Modülleri'
-          Week-1 (Sample-1): 'Hafta-1 (Örnek-1)'
-          Week-2 (Sample-2): 'Hafta-2 (Örnek-1)'
-          Week-3 (Sample-3): 'Hafta-3 (Örnek-1)'
-          Week-4 (Sample-4): 'Hafta-4 (Örnek-1)'
-          Week-5 (Sample-5): 'Hafta-5 (Örnek-1)'
-          Week-6 (Sample-6): 'Hafta-6 (Örnek-1)'
-          Week-7 (Sample-7): 'Hafta-7 (Örnek-1)'
-          Week-8 (Midterm): 'Hafta-8 (Vize)'
-          Week-9 (Sample-9): 'Hafta-9 (Örnek-1)'
-          Week-10 (Sample-10): 'Hafta-10 (Örnek-1)'
-          Week-11 (Sample-11): 'Hafta-11 (Örnek-1)'
-          Week-12 (Sample-12): 'Hafta-12 (Örnek-1)'
-          Week-13 (Sample-13): 'Hafta-13 (Örnek-1)'
-          Week-14 (Sample-14): 'Hafta-14 (Örnek-1)'
-          Week-15 (Sample-15): 'Hafta-15 (Örnek-1)'
-          Week-16 (Final): 'Hafta-16 (Final)'
-          License: 'Lisans'
-          Changelog: 'Geçmiş'
+          Home: 'Home'
+          Syllabus: 'Syllabus'
+          Course Modules: 'Course Modules'
+          Week-1 (Database Systems Intro): 'Week-1 (Database Systems Intro)'
+          Week-2 (Database and Fundamental Concepts): 'Week-2 (Database and Fundamental Concepts)'
+          Week-3 (Requirements Analysis and Entity Relationship Diagram): 'Week-3 (Requirements Analysis and Entity Relationship Diagram)'
+          Week-4 (Case Study E-R Design): 'Week-4 (Case Study E-R Design)'
+          Week-5 (Relational Model in DBMS): 'Week-5 (Relational Model in DBMS)'
+          Week-6 (Types of Keys in Relational Model): 'Week-6 (Types of Keys in Relational Model)'
+          Week-7 (Mapping from ER Model to Relational Model): 'Week-7 (Mapping from ER Model to Relational Model)'
+          Week-8 (Midterm): 'Week-8 (Midterm)'
+          Week-9 (SQL): 'Week-9 (SQL)'
+          Week-10 (TO-DO): 'Week-10 (TO-DO)'
+          Week-11 (TO-DO): 'Week-11 (TO-DO)'
+          Week-12 (TO-DO): 'Week-12 (TO-DO)'
+          Week-13 (TO-DO): 'Week-13 (TO-DO)'
+          Week-14 (TO-DO): 'Week-14 (TO-DO)'
+          Week-15 (TO-DO): 'Week-15 (TO-DO)'
+          Week-16 (Final): 'Week-16 (Final)'
+          License: 'License'
+          Changelog: 'Changelog'
   - git-revision-date-localized
   - minify:
       minify_html: false
@@ -285,21 +276,21 @@ nav:
   - Home: index.md
   - Syllabus: syllabus/syllabus.md
   - Course Modules:
-    - Week-1 (Sample-1): week-1/week-1.md
-    - Week-2 (Sample-2): week-2/week-2.md
-    - Week-3 (Sample-3): week-3/week-3.md
-    - Week-4 (Sample-4): week-4/week-4.md
-    - Week-5 (Sample-5): week-5/week-5.md
-    - Week-6 (Sample-6): week-6/week-6.md
-    - Week-7 (Sample-7): week-7/week-7.md
+    - Week-1 (Database Systems Intro): week-1/week-1.md
+    - Week-2 (Database and Fundamental Concepts): week-2/week-2.md
+    - Week-3 (Requirements Analysis and Entity Relationship Diagram): week-3/week-3.md
+    - Week-4 (Case Study E-R Design): week-4/week-4.md
+    - Week-5 (Relational Model in DBMS): week-5/week-5.md
+    - Week-6 (Types of Keys in Relational Model): week-6/week-6.md
+    - Week-7 (Mapping from ER Model to Relational Model): week-7/week-7.md
     - Week-8 (Midterm): week-8/week-8-midterm.md
-    - Week-9 (Sample-9): week-9/week-9.md
-    - Week-10 (Sample-10): week-10/week-10.md 
-    - Week-11 (Sample-11): week-11/week-11.md 
-    - Week-12 (Sample-12): week-12/week-12.md
-    - Week-13 (Sample-13): week-13/week-13.md
-    - Week-14 (Sample-14): week-14/week-14.md
-    - Week-15 (Sample-15): week-15/week-15.md
+    - Week-9 (SQL): week-9/week-9.md
+    - Week-10 (TO-DO): week-10/week-10.md 
+    - Week-11 (TO-DO): week-11/week-11.md 
+    - Week-12 (TO-DO): week-12/week-12.md
+    - Week-13 (TO-DO): week-13/week-13.md
+    - Week-14 (TO-DO): week-14/week-14.md
+    - Week-15 (TO-DO): week-15/week-15.md
     - Week-16 (Final): week-16/week-16-final.md
   - License: license.md
   - Changelog: changelog/index.md
