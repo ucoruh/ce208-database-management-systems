@@ -1,0 +1,1 @@
+curl -o "CE208-Database Management Systems-Bologna.pdf" "http://ogrenci.erdogan.edu.tr/BLGNDersBilgiPaketi/PDFTumu?mufDersID=29775&dersGrubuDersID=0&dersID=16091&yilID=null&programID=1221&mufredatID=null&dilID=1"

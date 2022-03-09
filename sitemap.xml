@@ -25,6 +25,14 @@
          
     </url>
     <url>
+         <loc>https://ucoruh.github.io/ce208-database-management-systems/resume/</loc>
+         <lastmod>2022-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://ucoruh.github.io/ce208-database-management-systems/en/resume/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://ucoruh.github.io/ce208-database-management-systems/tr/resume/"/>
+         
+    </url>
+    <url>
          <loc>https://ucoruh.github.io/ce208-database-management-systems/syllabus/syllabus/</loc>
          <lastmod>2022-03-09</lastmod>
          <changefreq>daily</changefreq>
