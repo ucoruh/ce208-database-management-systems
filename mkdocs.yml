@@ -5,6 +5,9 @@ site_dir: site  # Where to put the English HTML files
 site_author: 'Asst. Prof. Dr. Yıldıran YILMAZ'
 site_url: 'https://ucoruh.github.io/ce208-database-management-systems/'
 
+site_description: >-
+    RTEU CE208 Database Management Systems Course Notes
+
 site_description_en: >-
     RTEU CE208 Database Management Systems Course Notes
 
